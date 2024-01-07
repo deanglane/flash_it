@@ -1,0 +1,32 @@
+/* Login css */
+
+.loginPage {
+  height: calc(100vh - 80px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: 5px solid green;
+}
+
+.formContainer {
+  width: 50%;
+  height: 40vh;
+  background-color: rgb(224, 224, 224);
+  border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10%;
+  height: 100%;
+}
+
+.btn {
+  padding: 0.7em 1.5em;
+  border-radius: 50px;
+  background-color: #f6c34f;
+  cursor: pointer;
+  align-self: center;
+}

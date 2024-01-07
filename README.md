@@ -1,8 +1,5 @@
-# React + Vite
+# Flash It v2.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Supercharge Your Brain with Flash it! 🧠✨ Unleash the Power of Personalized Learning! 📚💡 Dive into a world where studying meets innovation – introducing the ultimate Flash it app! Transform your study notes into dynamic flashcards for a turbocharged learning experience. 🚀🔥 Master any subject effortlessly and ace your exams.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+more info to come...

@@ -1,0 +1,14 @@
+/* navigation css */
+
+.navigation {
+  height: 80px;
+  background-color: #222;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+}
